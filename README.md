@@ -46,3 +46,5 @@ This Python script scrapes data from the Wikipedia page listing the Largest Comp
 
 * Saves the DataFrame df as a CSV file named "Companies.csv" in the specified location (C:\Users\personal\Documents\Web_Scraping\Companies.csv).
 * Uses index=False to prevent the row index from being saved as a separate column in the CSV.
+**Disclaimer**
+Please note that websites can change their structure and layout over time. This script relies on the current format of the Wikipedia table. If the website structure changes, you might need to adjust the code to target the relevant elements for successful scraping.
